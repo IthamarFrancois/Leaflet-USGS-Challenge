@@ -1,3 +1,6 @@
+Ithamar Francois IO:
+https://ithamarfrancois.github.io/Leaflet-USGS-Challenge/
+
 # Leaflet Homework - Visualizing Data with Leaflet
 
 ## Background
